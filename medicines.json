@@ -1,0 +1,179 @@
+{
+  "medicines": {
+    "paracetamol": {
+      "generic_name": "Paracetamol",
+      "brand_names": ["Calpol", "Dolo 650", "Crocin", "Tylenol"],
+      "category": "Analgesic / Antipyretic",
+      "dosage_forms": ["tablet", "syrup", "suppository"],
+      "average_price": { "strip_10": 25, "strip_15": 35, "bottle_100ml": 45 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=paracetamol",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=paracetamol",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/paracetamol",
+        "onemg": "https://www.1mg.com/search/all?name=paracetamol"
+      }
+    },
+    "amoxicillin": {
+      "generic_name": "Amoxicillin",
+      "brand_names": ["Mox", "Novamox", "Amoxil", "Trimox"],
+      "category": "Antibiotic",
+      "dosage_forms": ["capsule", "tablet", "syrup"],
+      "average_price": { "strip_10": 85, "strip_15": 120, "bottle_60ml": 75 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=amoxicillin",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=amoxicillin",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/amoxicillin",
+        "onemg": "https://www.1mg.com/search/all?name=amoxicillin"
+      }
+    },
+    "metformin": {
+      "generic_name": "Metformin",
+      "brand_names": ["Glucophage", "Glycomet", "Diabex", "Fortamet"],
+      "category": "Antidiabetic",
+      "dosage_forms": ["tablet"],
+      "average_price": { "strip_10": 30, "strip_15": 45 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=metformin",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=metformin",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/metformin",
+        "onemg": "https://www.1mg.com/search/all?name=metformin"
+      }
+    },
+    "atorvastatin": {
+      "generic_name": "Atorvastatin",
+      "brand_names": ["Lipitor", "Storvas", "Atorva", "Tonact"],
+      "category": "Statin / Cholesterol",
+      "dosage_forms": ["tablet"],
+      "average_price": { "strip_10": 65, "strip_15": 95 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=atorvastatin",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=atorvastatin",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/atorvastatin",
+        "onemg": "https://www.1mg.com/search/all?name=atorvastatin"
+      }
+    },
+    "omeprazole": {
+      "generic_name": "Omeprazole",
+      "brand_names": ["Prilosec", "Omez", "Ocid", "Lomac"],
+      "category": "Proton Pump Inhibitor",
+      "dosage_forms": ["capsule", "tablet"],
+      "average_price": { "strip_10": 55, "strip_15": 80 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=omeprazole",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=omeprazole",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/omeprazole",
+        "onemg": "https://www.1mg.com/search/all?name=omeprazole"
+      }
+    },
+    "azithromycin": {
+      "generic_name": "Azithromycin",
+      "brand_names": ["Azithral", "Zithromax", "Azee", "Azicip"],
+      "category": "Antibiotic (Macrolide)",
+      "dosage_forms": ["tablet", "syrup"],
+      "average_price": { "strip_5": 95, "strip_6": 115, "bottle_30ml": 80 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=azithromycin",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=azithromycin",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/azithromycin",
+        "onemg": "https://www.1mg.com/search/all?name=azithromycin"
+      }
+    },
+    "cetirizine": {
+      "generic_name": "Cetirizine",
+      "brand_names": ["Zyrtec", "Cetzine", "Alerid", "Okacet"],
+      "category": "Antihistamine",
+      "dosage_forms": ["tablet", "syrup"],
+      "average_price": { "strip_10": 20, "strip_15": 30, "bottle_60ml": 40 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=cetirizine",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=cetirizine",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/cetirizine",
+        "onemg": "https://www.1mg.com/search/all?name=cetirizine"
+      }
+    },
+    "amlodipine": {
+      "generic_name": "Amlodipine",
+      "brand_names": ["Norvasc", "Amlodac", "Stamlo", "Amlong"],
+      "category": "Calcium Channel Blocker",
+      "dosage_forms": ["tablet"],
+      "average_price": { "strip_10": 40, "strip_15": 60 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=amlodipine",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=amlodipine",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/amlodipine",
+        "onemg": "https://www.1mg.com/search/all?name=amlodipine"
+      }
+    },
+    "pantoprazole": {
+      "generic_name": "Pantoprazole",
+      "brand_names": ["Protonix", "Pan 40", "Pantocid", "Panto"],
+      "category": "Proton Pump Inhibitor",
+      "dosage_forms": ["tablet"],
+      "average_price": { "strip_10": 45, "strip_15": 65 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=pantoprazole",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=pantoprazole",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/pantoprazole",
+        "onemg": "https://www.1mg.com/search/all?name=pantoprazole"
+      }
+    },
+    "ibuprofen": {
+      "generic_name": "Ibuprofen",
+      "brand_names": ["Brufen", "Advil", "Combiflam", "Nurofen"],
+      "category": "NSAID / Pain Relief",
+      "dosage_forms": ["tablet", "syrup", "gel"],
+      "average_price": { "strip_10": 30, "strip_15": 45, "bottle_100ml": 55 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=ibuprofen",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=ibuprofen",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/ibuprofen",
+        "onemg": "https://www.1mg.com/search/all?name=ibuprofen"
+      }
+    },
+    "vitamin d3": {
+      "generic_name": "Vitamin D3 (Cholecalciferol)",
+      "brand_names": ["Calcirol", "D-Rise", "Uprise D3", "Tayo 60k"],
+      "category": "Vitamin / Supplement",
+      "dosage_forms": ["capsule", "sachet", "drops"],
+      "average_price": { "strip_4": 55, "strip_8": 100, "bottle_30ml": 120 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=vitamin+d3",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=vitamin+d3",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/vitamin-d3",
+        "onemg": "https://www.1mg.com/search/all?name=vitamin+d3"
+      }
+    },
+    "metoprolol": {
+      "generic_name": "Metoprolol",
+      "brand_names": ["Lopressor", "Metolar", "Betaloc", "Met XL"],
+      "category": "Beta Blocker",
+      "dosage_forms": ["tablet"],
+      "average_price": { "strip_10": 35, "strip_15": 55 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=metoprolol",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=metoprolol",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/metoprolol",
+        "onemg": "https://www.1mg.com/search/all?name=metoprolol"
+      }
+    },
+    "dolo": {
+      "generic_name": "Paracetamol",
+      "brand_names": ["Dolo 650"],
+      "category": "Analgesic / Antipyretic",
+      "dosage_forms": ["tablet"],
+      "average_price": { "strip_10": 30, "strip_15": 45 },
+      "delivery_links": {
+        "pharmeasy": "https://pharmeasy.in/search/all?name=dolo+650",
+        "netmeds": "https://www.netmeds.com/catalogsearch/result?q=dolo+650",
+        "apollo": "https://www.apollopharmacy.in/search-medicines/dolo-650",
+        "onemg": "https://www.1mg.com/search/all?name=dolo+650"
+      }
+    }
+  },
+  "consultation_platforms": [
+    { "name": "Practo", "url": "https://www.practo.com/hyderabad", "logo": "🩺", "description": "Book appointments with top doctors in Hyderabad" },
+    { "name": "Apollo 247", "url": "https://www.apollo247.com/specialties", "logo": "🏥", "description": "Online & in-clinic consultations" },
+    { "name": "1mg Consult", "url": "https://www.1mg.com/consult", "logo": "👨‍⚕️", "description": "Online doctor consultation" },
+    { "name": "Tata Health", "url": "https://www.tatahealth.com/", "logo": "💊", "description": "Instant doctor consultations" }
+  ]
+}
